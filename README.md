@@ -19,3 +19,9 @@ The requirements for a plugin is for it to be regularly updated, bring non-mimic
 * [Broken Link Checker](https://sv.wordpress.org/plugins/broken-link-checker/)
 * [Polylang](https://polylang.pro/)
 * [Redirection](https://sv.wordpress.org/plugins/redirection/)
+
+### Recommended plugins
+
+* [Two-Factor](https://sv.wordpress.org/plugins/two-factor/)
+* [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
+* [Broken Link Checker](https://sv.wordpress.org/plugins/broken-link-checker/)
