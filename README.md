@@ -1,5 +1,5 @@
 # WordPress Plugin Whitelist
-## WordPress plugin whitelisted by Evlos AB for WordPress installations under Evlos CHOPS
+WordPress plugin whitelisted by Evlos AB for WordPress installations under Evlos CHOPS
 
 ### Whitelisting Plugins
 
